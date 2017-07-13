@@ -5,31 +5,31 @@
       	"id": "flyinglarvae.star.com",
       	"name": "Larva Flying",
       	"link_app": "https://play.google.com/store/apps/details?id=flyinglarvae.star.com",
-	"link_image":""
+	"link_image":"https://github.com/dxhung87/settingads/blob/master/ic_launcher_larva.png?raw=true"
   	},
 	{
       	"id": "zombiecomback.star.com",
       	"name": "Zombie Comeback!",
       	"link_app": "https://play.google.com/store/apps/details?id=zombiecomback.star.com",
-	"link_image":""
+	"link_image":"https://github.com/dxhung87/settingads/blob/master/ic_launcher_zombie.png?raw=true"
   	},
 	{
       	"id": "motoracing.com.star",
       	"name": "MotoRacing",
       	"link_app": "https://play.google.com/store/apps/details?id=motoracing.com.star",
-	"link_image":""
+	"link_image":"https://github.com/dxhung87/settingads/blob/master/ic_launcher_racing.png?raw=true"
   	},
 	{
       	"id": "puzzlelight.star.com",
       	"name": "Light Me",
       	"link_app": "https://play.google.com/store/apps/details?id=puzzlelight.star.com",
-	"link_image":""
+	"link_image":"https://github.com/dxhung87/settingads/blob/master/ic_launcher_lightme.png?raw=true"
   	},
 	{
       	"id": "dragon.star.com",
       	"name": "Dragon2048",
       	"link_app": "https://play.google.com/store/apps/details?id=dragon.star.com",
-	"link_image":""
+	"link_image":"https://github.com/dxhung87/settingads/blob/master/ic_launcher_dragon.png?raw=true"
   	}
   ]
 }

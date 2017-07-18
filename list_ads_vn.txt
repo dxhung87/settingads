@@ -8,10 +8,10 @@
 	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_larva.png"
   	},
 	{
-      	"id": "zombiecomback.star.com",
-      	"name": "Zombie Comeback!",
-      	"link_app": "https://play.google.com/store/apps/details?id=zombiecomback.star.com",
-	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_zombie.png"
+      	"id": "puzzlelight.star.com",
+      	"name": "Light Me",
+      	"link_app": "https://play.google.com/store/apps/details?id=puzzlelight.star.com",
+	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_lightme.png"
   	},
 	{
       	"id": "motoracing.com.star",
@@ -20,10 +20,10 @@
 	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_racing.png"
   	},
 	{
-      	"id": "puzzlelight.star.com",
-      	"name": "Light Me",
-      	"link_app": "https://play.google.com/store/apps/details?id=puzzlelight.star.com",
-	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_lightme.png"
+      	"id": "zombiecomback.star.com",
+      	"name": "Zombie Comeback!",
+      	"link_app": "https://play.google.com/store/apps/details?id=zombiecomback.star.com",
+	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_zombie.png"
   	},
 	{
       	"id": "dragon.star.com",

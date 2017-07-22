@@ -2,10 +2,10 @@
   "setting_id": "list_ads_vn",
   "list_ads": [
 	{
-      	"id": "flyinglarvae.star.com",
-      	"name": "Larva Flying",
-      	"link_app": "https://play.google.com/store/apps/details?id=flyinglarvae.star.com",
-	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_larva.png"
+      	"id": "snackonscreen.star.com",
+      	"name": "Snack on Screen",
+      	"link_app": "https://play.google.com/store/apps/details?id=snackonscreen.star.com",
+	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launch_snack_on.png"
   	},
 	{
       	"id": "puzzlelight.star.com",

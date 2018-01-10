@@ -1,29 +1,35 @@
 {
-  "setting_id": "list_ads_vn",
+"setting_id": "list_ads_vn",
 "list_ads": [
-	{
-      	"id": "puzzlelight.star.com",
-      	"name": "Light Me",
-      	"link_app": "https://play.google.com/store/apps/details?id=puzzlelight.star.com",
-	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_lightme.png"
-  	},
-	{
-      	"id": "motoracing.com.star",
-      	"name": "MotoRacing",
-      	"link_app": "https://play.google.com/store/apps/details?id=motoracing.com.star",
-	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_racing.png"
-  	},
-	{
-      	"id": "zombiecomback.star.com",
-      	"name": "Zombie Comeback!",
-      	"link_app": "https://play.google.com/store/apps/details?id=zombiecomback.star.com",
-	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_zombie.png"
-  	},
-	{
-      	"id": "dragon.star.com",
-      	"name": "Dragon2048",
-      	"link_app": "https://play.google.com/store/apps/details?id=dragon.star.com",
-	"link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_dragon.png"
-  	}
+  {
+        "id": "puzzlelight.star.com",
+        "name": "Light Me",
+        "link_app": "https://play.google.com/store/apps/details?id=puzzlelight.star.com",
+        "link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_lightme.png"
+    },
+  {
+        "id": "motoracing.com.star",
+        "name": "MotoRacing",
+        "link_app": "https://play.google.com/store/apps/details?id=motoracing.com.star",
+        "link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_racing.png"
+    },
+  {
+        "id": "zombiecomback.star.com",
+        "name": "Zombie Comeback!",
+        "link_app": "https://play.google.com/store/apps/details?id=zombiecomback.star.com",
+        "link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_zombie.png"
+    },
+  {
+        "id": "dragon.star.com",
+        "name": "Dragon2048",
+        "link_app": "https://play.google.com/store/apps/details?id=dragon.star.com",
+        "link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_dragon.png"
+    },
+    {
+        "id": "flyinglarvae.star.com",
+        "name": "Larva Flying",
+        "link_app": "https://play.google.com/store/apps/details?id=flyinglarvae.star.com",
+        "link_image":"https://forapptarot.files.wordpress.com/2017/07/ic_launcher_larva.png"
+    }
   ]
 }
